@@ -31,5 +31,3 @@ Grad-CAM highlights critical brain regions, improving interpretability and aidin
 - Combine image and non-image data for improved predictions.  
 - Generalize the model for other neurodegenerative diseases.  
 
-
----
